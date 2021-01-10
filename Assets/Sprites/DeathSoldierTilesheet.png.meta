@@ -1,0 +1,532 @@
+fileFormatVersion: 2
+guid: 24077d4b2e66d9b448a88b0906244d5b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7784411788690344788
+    second: DeathSoldierTilesheet_0
+  - first:
+      213: -5533298442694258157
+    second: DeathSoldierTilesheet_1
+  - first:
+      213: 5222464516845110793
+    second: DeathSoldierTilesheet_2
+  - first:
+      213: 329226699747056467
+    second: DeathSoldierTilesheet_3
+  - first:
+      213: 3319724617754248174
+    second: DeathSoldierTilesheet_4
+  - first:
+      213: 1566732527639300775
+    second: DeathSoldierTilesheet_5
+  - first:
+      213: 7837229680260891157
+    second: DeathSoldierTilesheet_6
+  - first:
+      213: -7917120811403192167
+    second: DeathSoldierTilesheet_7
+  - first:
+      213: -1751782472630251472
+    second: DeathSoldierTilesheet_8
+  - first:
+      213: 2341421396383914799
+    second: DeathSoldierTilesheet_9
+  - first:
+      213: 9090885451398255869
+    second: DeathSoldierTilesheet_10
+  - first:
+      213: 7758769684324775819
+    second: DeathSoldierTilesheet_11
+  - first:
+      213: -3761263768959667487
+    second: DeathSoldierTilesheet_12
+  - first:
+      213: -3359588342303253076
+    second: DeathSoldierTilesheet_13
+  - first:
+      213: -6078609687867471116
+    second: DeathSoldierTilesheet_14
+  - first:
+      213: 2186711984327076396
+    second: DeathSoldierTilesheet_15
+  - first:
+      213: 2221062014529249570
+    second: DeathSoldierTilesheet_16
+  - first:
+      213: 8552687604590593004
+    second: DeathSoldierTilesheet_17
+  - first:
+      213: 8033834116570182104
+    second: DeathSoldierTilesheet_18
+  - first:
+      213: -6904196203764556880
+    second: DeathSoldierTilesheet_19
+  - first:
+      213: -8856705670435768593
+    second: DeathSoldierTilesheet_20
+  - first:
+      213: 3313373223545590130
+    second: DeathSoldierTilesheet_21
+  - first:
+      213: -6169950266541564411
+    second: DeathSoldierTilesheet_22
+  - first:
+      213: 612449315522686481
+    second: DeathSoldierTilesheet_23
+  - first:
+      213: -7283132486549279584
+    second: DeathSoldierTilesheet_24
+  - first:
+      213: -8871319433396941396
+    second: DeathSoldierTilesheet_25
+  - first:
+      213: 6882136660325114954
+    second: DeathSoldierTilesheet_26
+  - first:
+      213: 1656219530727698789
+    second: DeathSoldierTilesheet_27
+  - first:
+      213: -4180332042688674007
+    second: DeathSoldierTilesheet_28
+  - first:
+      213: -4868742376503977372
+    second: DeathSoldierTilesheet_29
+  - first:
+      213: 4049087134222016332
+    second: DeathSoldierTilesheet_30
+  - first:
+      213: -7600668958885127218
+    second: DeathSoldierTilesheet_31
+  - first:
+      213: -3168531298992335109
+    second: DeathSoldierTilesheet_32
+  - first:
+      213: -6574584573517110863
+    second: DeathSoldierTilesheet_33
+  - first:
+      213: -5285157314447383044
+    second: DeathSoldierTilesheet_34
+  - first:
+      213: 6024506226726886101
+    second: DeathSoldierTilesheet_35
+  - first:
+      213: -4774340881760847773
+    second: DeathSoldierTilesheet_36
+  - first:
+      213: 9129716888862094617
+    second: DeathSoldierTilesheet_37
+  - first:
+      213: 3208109836532709504
+    second: DeathSoldierTilesheet_38
+  - first:
+      213: -7799598895778701456
+    second: DeathSoldierTilesheet_39
+  - first:
+      213: 7105314999119915659
+    second: DeathSoldierTilesheet_40
+  - first:
+      213: -1424427672106441097
+    second: DeathSoldierTilesheet_41
+  - first:
+      213: -6946892376548846730
+    second: DeathSoldierTilesheet_42
+  - first:
+      213: -688434735879226539
+    second: DeathSoldierTilesheet_43
+  - first:
+      213: 1101349242855071791
+    second: DeathSoldierTilesheet_44
+  - first:
+      213: -4969018261986527270
+    second: DeathSoldierTilesheet_45
+  - first:
+      213: 4584091701820172410
+    second: DeathSoldierTilesheet_46
+  - first:
+      213: -8706004281312863120
+    second: DeathSoldierTilesheet_47
+  - first:
+      213: -1212392358339939582
+    second: DeathSoldierTilesheet_48
+  - first:
+      213: -6820881273545093074
+    second: DeathSoldierTilesheet_49
+  - first:
+      213: -7733163821312344777
+    second: DeathSoldierTilesheet_50
+  - first:
+      213: -2366882487728236462
+    second: DeathSoldierTilesheet_51
+  - first:
+      213: -6548068687371645967
+    second: DeathSoldierTilesheet_52
+  - first:
+      213: 5393880581380715863
+    second: DeathSoldierTilesheet_53
+  - first:
+      213: -7024270447318721104
+    second: DeathSoldierTilesheet_54
+  - first:
+      213: -8613675143652942804
+    second: DeathSoldierTilesheet_55
+  - first:
+      213: 8756360983061348932
+    second: DeathSoldierTilesheet_56
+  - first:
+      213: 6508292181683275770
+    second: DeathSoldierTilesheet_57
+  - first:
+      213: 7976476106507074956
+    second: DeathSoldierTilesheet_58
+  - first:
+      213: -7231315990687492585
+    second: DeathSoldierTilesheet_59
+  - first:
+      213: 7703308732345884657
+    second: DeathSoldierTilesheet_60
+  - first:
+      213: 4645236114632598136
+    second: DeathSoldierTilesheet_61
+  - first:
+      213: -8977400863707596306
+    second: DeathSoldierTilesheet_62
+  - first:
+      213: 5299530461366251327
+    second: DeathSoldierTilesheet_63
+  - first:
+      213: 4054482064210708653
+    second: DeathSoldierTilesheet_64
+  - first:
+      213: 541873757246766526
+    second: DeathSoldierTilesheet_65
+  - first:
+      213: 3054262347921565270
+    second: DeathSoldierTilesheet_66
+  - first:
+      213: -5457125740321114951
+    second: DeathSoldierTilesheet_67
+  - first:
+      213: 6468254659954585791
+    second: DeathSoldierTilesheet_68
+  - first:
+      213: 8850488616078255981
+    second: DeathSoldierTilesheet_69
+  - first:
+      213: 7361283134489975719
+    second: DeathSoldierTilesheet_70
+  - first:
+      213: -6112717026275767767
+    second: DeathSoldierTilesheet_71
+  - first:
+      213: 5027573201782720327
+    second: DeathSoldierTilesheet_72
+  - first:
+      213: -1582946767157549934
+    second: DeathSoldierTilesheet_73
+  - first:
+      213: -5865069449644813665
+    second: DeathSoldierTilesheet_74
+  - first:
+      213: -8139621822209941205
+    second: DeathSoldierTilesheet_75
+  - first:
+      213: 4356888674124542797
+    second: DeathSoldierTilesheet_76
+  - first:
+      213: -3623315670858315325
+    second: DeathSoldierTilesheet_77
+  - first:
+      213: 2310261673188421055
+    second: DeathSoldierTilesheet_78
+  - first:
+      213: 4042810333753551177
+    second: DeathSoldierTilesheet_79
+  - first:
+      213: 6175882500168491863
+    second: DeathSoldierTilesheet_80
+  - first:
+      213: 6425218792217047475
+    second: DeathSoldierTilesheet_81
+  - first:
+      213: 7611850197034167478
+    second: DeathSoldierTilesheet_82
+  - first:
+      213: 459772099195267840
+    second: DeathSoldierTilesheet_83
+  - first:
+      213: -3918974735711190314
+    second: DeathSoldierTilesheet_84
+  - first:
+      213: 1519835241520052822
+    second: DeathSoldierTilesheet_85
+  - first:
+      213: 6500820180307345394
+    second: DeathSoldierTilesheet_86
+  - first:
+      213: -3836163410997840046
+    second: DeathSoldierTilesheet_87
+  - first:
+      213: -5996856195538093691
+    second: DeathSoldierTilesheet_88
+  - first:
+      213: 1187882411233399855
+    second: DeathSoldierTilesheet_89
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DeathSoldierTilesheet_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 300
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b404a3749c70c60800000000000000
+      internalID: 7784411788690344788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathSoldierTilesheet_1
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 300
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3129cfe0266c533b0800000000000000
+      internalID: -5533298442694258157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathSoldierTilesheet_2
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 0
+        width: 300
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90682aaeecbe97840800000000000000
+      internalID: 5222464516845110793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathSoldierTilesheet_3
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 0
+        width: 300
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b5ff860f5a19400800000000000000
+      internalID: 329226699747056467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathSoldierTilesheet_4
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 210
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee38c5183f7021e20800000000000000
+      internalID: 3319724617754248174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathSoldierTilesheet_5
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 190
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aa8df7dee62eb510800000000000000
+      internalID: 1566732527639300775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DeathSoldierTilesheet_6
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 170
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512491beede63cc60800000000000000
+      internalID: 7837229680260891157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
